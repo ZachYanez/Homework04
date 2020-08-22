@@ -1,0 +1,49 @@
+.background { 
+    background-image: url("https://onwardigo.files.wordpress.com/2016/05/millionaire01.jpg");
+    background-color: none;
+    background-size: cover;
+
+}
+
+.page-header {
+    text-align: center;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    
+}
+
+.timer {
+    text-align: center;
+    color: white;
+
+}
+
+.prompt {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.question-box {
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: auto;
+    width: 50%;
+}
+
+.answer-box {
+    text-align: center;
+}
+
+.submit {
+    text-align: center; 
+}
+
+.button {
+    background-color: white;
+    width: 60px;
+    height: 40px;
+   
+}
